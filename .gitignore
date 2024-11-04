@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+src/.ipynb_checkpoints/coupled-spring-checkpoint.ipynb
+src/.ipynb_checkpoints/line-anim-example-checkpoint.ipynb
