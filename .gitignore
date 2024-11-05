@@ -10,3 +10,8 @@ wheels/
 .venv
 src/.ipynb_checkpoints/coupled-spring-checkpoint.ipynb
 src/.ipynb_checkpoints/line-anim-example-checkpoint.ipynb
+src/animline.gif
+src/balls.gif
+src/balls2.gif
+src/balls3.gif
+src/two_springs.dat

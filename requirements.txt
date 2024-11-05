@@ -22,3 +22,5 @@ imageio-ffmpeg
 # omfvista
 # netcdf4
 tqdm
+ipympl
+
